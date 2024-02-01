@@ -1,0 +1,17 @@
+p {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.general-text {
+    color: yellow;
+}
+
+#orange {
+    color: orange;
+    background-color: #999;
+}
+
